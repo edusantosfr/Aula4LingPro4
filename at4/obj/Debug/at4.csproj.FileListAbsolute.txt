@@ -1,0 +1,11 @@
+C:\Users\22200552\source\repos\at4\at4\bin\Debug\at4.exe.config
+C:\Users\22200552\source\repos\at4\at4\bin\Debug\at4.exe
+C:\Users\22200552\source\repos\at4\at4\bin\Debug\at4.pdb
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.csproj.AssemblyReference.cache
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.csproj.SuggestedBindingRedirects.cache
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.Form1.resources
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.Properties.Resources.resources
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.csproj.GenerateResource.cache
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.csproj.CoreCompileInputs.cache
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.exe
+C:\Users\22200552\source\repos\at4\at4\obj\Debug\at4.pdb
